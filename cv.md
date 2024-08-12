@@ -26,7 +26,7 @@ I am 39 years old and have been working as a hotel manager for over 10 years. At
 + Belarusian State Pedagogical University named after M.Tank (BSPU named after M.Tank)
 Specialty: History. Foreign language (English language)
 + Courses: GeekBrains, CS50 lectures
----**
+---
 ### **Languages**
 ---
 + **Russian** - native speaker
