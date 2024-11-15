@@ -33,3 +33,8 @@ Specialty: History. Foreign language (English language)
 + **Belorussian** - native speaker
 + **English** A2 (B1 in process…)
 
+
+
+
+
+
