@@ -1,2 +1,2 @@
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://irina-S123.github.io/rsschool-cv/cv
 
